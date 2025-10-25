@@ -21,6 +21,7 @@ Para executar qualquer um dos jogos, siga os passos abaixo:
 🕹️ Jogos Incluídos
 Atualmente, o repositório conta com dois projetos:
 
+
 🎯 1. Acerte o Alvo (acerte_alvo.py)
 Um jogo de reflexo e pontaria. O objetivo é clicar no alvo vermelho que se move de forma aleatória na tela.
 
@@ -30,7 +31,11 @@ Controle: Mouse (clique para acertar).
 
 <img width="502" height="398" alt="image" src="https://github.com/user-attachments/assets/c0f4cb65-6d7e-4d6b-bee7-edb59304ddbe" />
 
+
+
+
 🏓 2. Pong (pong.py)A clássica recriação do jogo Pong para dois jogadores, com raquetes e pontuação.Objetivo: Marcar pontos fazendo a bola passar pelo lado adversário.Controles:Jogador 1 (Esquerda): W (Cima) e S (Baixo)Jogador 2 (Direita): Seta $\uparrow$ (Cima) e Seta $\downarrow$ (Baixo)
+
 
 <img width="502" height="398" alt="image" src="https://github.com/user-attachments/assets/6d861b9c-1a0c-45c1-8cd8-4719cfeeea2e" />
 
