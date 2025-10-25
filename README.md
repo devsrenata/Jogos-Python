@@ -28,9 +28,9 @@ Objetivo: Aumentar a pontuação clicando no alvo.
 
 Controle: Mouse (clique para acertar).
 
-<img width="1004" height="795" alt="image" src="https://github.com/user-attachments/assets/c0f4cb65-6d7e-4d6b-bee7-edb59304ddbe" />
+<img width="502" height="398" alt="image" src="https://github.com/user-attachments/assets/c0f4cb65-6d7e-4d6b-bee7-edb59304ddbe" />
 
 🏓 2. Pong (pong.py)A clássica recriação do jogo Pong para dois jogadores, com raquetes e pontuação.Objetivo: Marcar pontos fazendo a bola passar pelo lado adversário.Controles:Jogador 1 (Esquerda): W (Cima) e S (Baixo)Jogador 2 (Direita): Seta $\uparrow$ (Cima) e Seta $\downarrow$ (Baixo)
 
-<img width="1005" height="795" alt="image" src="https://github.com/user-attachments/assets/6d861b9c-1a0c-45c1-8cd8-4719cfeeea2e" />
+<img width="502" height="398" alt="image" src="https://github.com/user-attachments/assets/6d861b9c-1a0c-45c1-8cd8-4719cfeeea2e" />
 
